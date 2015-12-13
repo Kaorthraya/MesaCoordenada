@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mesa Coordenada
 
 Esse é o Github para meu projeto de conclusão do curso técnico em eletrônica, sou formando do ano de 2015, e disponibilizarei aqui os arquivos de forma open-source, pois tenho a convicção que o conhecimento deve ser difundio a qualquer custo e todos os meus avanços, mesmo que mínimos serão divulgados para ajudar outras pessoas durante o processo.<br>
@@ -8,7 +7,3 @@ A partir dessa primeira dificuldade descrita aqui, vocês verão todas as soluç
 
 Mateus Lucas de Campos e Silva. (Autor) <br>
 Nathália do Nascimento Clementino. (Co-autora)
-=======
-# MesaCoordenada
-Meu projeto de conclusão de curso
->>>>>>> 62352a6cf5ab8c4292c080513d38c5d4985c4770
